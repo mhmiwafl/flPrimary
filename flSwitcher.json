@@ -1,0 +1,25 @@
+          {
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://www.freshlime.com/",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.lego.com/en-us",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://hackertyper.net/",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
+     
